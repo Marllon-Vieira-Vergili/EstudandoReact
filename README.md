@@ -46,5 +46,3 @@ Sinta-se à vontade pra explorar, modificar ou usar como base pra seus próprios
 Boa prática e bons estudos com React 🚀
 
 ---
-
-Se quiser, posso até gerar um arquivo `.md` pronto pra você copiar e colar no seu GitHub — é só pedir!
